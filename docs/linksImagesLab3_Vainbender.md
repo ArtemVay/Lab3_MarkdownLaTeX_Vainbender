@@ -13,3 +13,4 @@
 ![скриншот к лабораторной 1](../img/commitStructureLab3_Vainbender.png)
 ![скриншот к лабораторной 2](../img/gitPushLab3_Vainbender.png)
 
+[Markdown](https://markdown.org/ "Перейти на Markdown")
